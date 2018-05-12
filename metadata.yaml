@@ -1,0 +1,29 @@
+_repo: Nullification-Secession-Webster-s-Argument-and-the-Kentucky-and-Virginia-ResolutionsConsidere__41673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Loring, Caleb William
+    birthdate: 1819
+    deathdate: 1897
+    gutenberg_agent_id: '41291'
+    url: http://www.gutenberg.org/2009/agents/41291
+description: ''
+gutenberg_issued: '2012-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41673'
+  lccn: 09022900
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secession'
+- !lcc 'JK'
+- !lcsh 'Nullification (States'' rights)'
+title: "Nullification, Secession, Webster's Argument, and the Kentucky and Virginia\
+  \ Resolutions\r\nConsidered in Reference to the Constitution and Historically"
+url: http://www.gutenberg.org/ebooks/41673
